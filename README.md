@@ -2,7 +2,6 @@
 
 # 🎬 Plateforme de Streaming – Projet Portfolio
 
-> **Projet réalisé dans le cadre du cours de Développement Web.**
 > L’objectif : démontrer mes compétences en **React**, intégration d’API et conception d’une application complète de type **Netflix / Crunchyroll**, **sans streaming réel** (pour des raisons légales).
 
 ---
