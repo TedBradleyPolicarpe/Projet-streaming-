@@ -1,7 +1,4 @@
 # Projet-streaming-
-Voici ton **README complet** prêt à copier-coller dans ton dépôt GitHub ou GitLab, **avec une licence MIT officielle** à la fin 👇
-
----
 
 # 🎬 Plateforme de Streaming – Projet Portfolio
 
