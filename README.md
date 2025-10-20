@@ -1,6 +1,4 @@
-# Projet-streaming-
-
-# 🎬 Plateforme de Streaming – Projet Portfolio
+# 🎬 Plateforme de Streaming 
 
 > L’objectif : démontrer mes compétences en **React**, intégration d’API et conception d’une application complète de type **Netflix / Crunchyroll**, **sans streaming réel** (pour des raisons légales).
 
